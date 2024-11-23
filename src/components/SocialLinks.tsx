@@ -5,7 +5,7 @@ export default function SocialLinks() {
   return (
     <div className="flex justify-center space-x-4 mt-8">
       <a
-        href="#"
+        href="https://t.me/mercalcommunity"
         className="retro-button flex items-center space-x-2"
         target="_blank"
         rel="noopener noreferrer"
@@ -14,7 +14,7 @@ export default function SocialLinks() {
         <span>Telegram</span>
       </a>
       <a
-        href="#"
+        href="https://x.com/mercalonsolana"
         className="retro-button flex items-center space-x-2"
         target="_blank"
         rel="noopener noreferrer"
@@ -23,7 +23,7 @@ export default function SocialLinks() {
         <span>Twitter</span>
       </a>
       <a
-        href="#"
+        href="https://dexscreener.com/solana/c2vf8e1xcapp8ly2rn4v1ysxyyfyt5jsvyxwsfdb1rxg"
         className="retro-button flex items-center space-x-2"
         target="_blank"
         rel="noopener noreferrer"
