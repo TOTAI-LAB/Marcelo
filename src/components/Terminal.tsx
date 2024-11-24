@@ -19,29 +19,7 @@ export default function Terminal() {
       <div className="h-[500px] overflow-y-auto p-6 space-y-4">
         <div className="font-mono text-[#00ff00] text-sm leading-relaxed">
           <p>
-            <span className="opacity-90">$ </span>In just 48 hours, we’ve developed and launched something truly groundbreaking: a sophisticated AI chatbot. Unlike basic larping Twitter bots, this is a fully functional, conversational AI designed to enhance user experience.
-          </p>
-          <br />
-          <p>
-            <span className="opacity-90">$ </span>To continue building and improving, we need your support. We’re raising funds for future development, including custom AI enhancements and website updates.
-          </p>
-          <br />
-          <p>
-            <span className="opacity-90">$ </span><strong>Wallet:</strong> y6CewDLJn5w2NNR9Rw2eTduZANpxnA1zP4JfdML38vp
-          </p>
-          <p>
-            <span className="opacity-90">$ </span><strong>Minimum cap:</strong> 10 SOL [all services resume]
-          </p>
-          <p>
-            <span className="opacity-90">$ </span><strong>Max:</strong> 100 SOL or 2% tokens.
-          </p>
-          <br />
-          <p>
-            <span className="opacity-90">$ </span>For transparency: <a href="https://llmpricecheck.com" target="_blank" rel="noopener noreferrer" className="underline text-[#00ff00]">llmpricecheck.com</a>
-          </p>
-          <br />
-          <p>
-            <span className="opacity-90">$ </span><strong>Note:</strong> Pausing all services until further notice.
+            <span className="opacity-90">$ </span>
           </p>
         </div>
       </div>
